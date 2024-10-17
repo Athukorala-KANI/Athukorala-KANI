@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋, I'm Athukorala Kani Karunanayake Athukoralalage Nalin Indrajith Athukorala!
 
-<!--
-**Athukorala-KANI/Athukorala-KANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Currently pursuing B.Sc. IT (Hons) at the University of Moratuwa
+I am currently enrolled in my **Level 2** studies for the academic year **2023/2024**. 
 
-Here are some ideas to get you started:
+### 💻 Tech & Tools
+- Java, Python, C++
+- SQL, NoSQL databases
+- HTML, CSS, JavaScript, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Advanced Algorithms
+- Data Structures
+- Web Development
+
+### 📫 How to reach me:
+- Email: 154147j@uom.lk
+
+---
+
+*This profile is under development as I continue to progress through my academic journey!*
