@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Athukorala Kani Karunanayake Athukoralalage Nalin Indrajith Athukorala!
+## Hi there 👋, I'm Athukorala K.A.N.I.!
 
 ### 🎓 Currently pursuing B.Sc. IT (Hons) at the University of Moratuwa
 I am currently enrolled in my **Level 2** studies for the academic year **2023/2024**. 
